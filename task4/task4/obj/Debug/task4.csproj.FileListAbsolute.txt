@@ -1,0 +1,10 @@
+C:\Users\Alekseevs\Documents\c#\task4\task4\bin\Debug\task4.exe.config
+C:\Users\Alekseevs\Documents\c#\task4\task4\bin\Debug\task4.exe
+C:\Users\Alekseevs\Documents\c#\task4\task4\bin\Debug\task4.pdb
+C:\Users\Alekseevs\Documents\c#\task4\task4\obj\Debug\task4.csprojResolveAssemblyReference.cache
+C:\Users\Alekseevs\Documents\c#\task4\task4\obj\Debug\task4.Task4.resources
+C:\Users\Alekseevs\Documents\c#\task4\task4\obj\Debug\task4.Properties.Resources.resources
+C:\Users\Alekseevs\Documents\c#\task4\task4\obj\Debug\task4.csproj.GenerateResource.Cache
+C:\Users\Alekseevs\Documents\c#\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\Alekseevs\Documents\c#\task4\task4\obj\Debug\task4.exe
+C:\Users\Alekseevs\Documents\c#\task4\task4\obj\Debug\task4.pdb
