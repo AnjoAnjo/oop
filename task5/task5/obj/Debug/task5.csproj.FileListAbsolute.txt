@@ -8,3 +8,13 @@ C:\Users\Alekseevs\Documents\c#\task5\task5\obj\Debug\task5.csproj.GenerateResou
 C:\Users\Alekseevs\Documents\c#\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
 C:\Users\Alekseevs\Documents\c#\task5\task5\obj\Debug\task5.exe
 C:\Users\Alekseevs\Documents\c#\task5\task5\obj\Debug\task5.pdb
+C:\Users\Alekseevs\Documents\oop\task5\task5\bin\Debug\task5.exe.config
+C:\Users\Alekseevs\Documents\oop\task5\task5\bin\Debug\task5.exe
+C:\Users\Alekseevs\Documents\oop\task5\task5\bin\Debug\task5.pdb
+C:\Users\Alekseevs\Documents\oop\task5\task5\obj\Debug\task5.csprojResolveAssemblyReference.cache
+C:\Users\Alekseevs\Documents\oop\task5\task5\obj\Debug\task5.task5.resources
+C:\Users\Alekseevs\Documents\oop\task5\task5\obj\Debug\task5.Properties.Resources.resources
+C:\Users\Alekseevs\Documents\oop\task5\task5\obj\Debug\task5.csproj.GenerateResource.Cache
+C:\Users\Alekseevs\Documents\oop\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+C:\Users\Alekseevs\Documents\oop\task5\task5\obj\Debug\task5.exe
+C:\Users\Alekseevs\Documents\oop\task5\task5\obj\Debug\task5.pdb

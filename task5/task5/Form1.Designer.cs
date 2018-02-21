@@ -47,6 +47,7 @@
             this.RL.TabIndex = 0;
             this.RL.Text = ">";
             this.RL.UseVisualStyleBackColor = true;
+            this.RL.Click += new System.EventHandler(this.RL_Click);
             // 
             // LR
             // 
@@ -57,6 +58,7 @@
             this.LR.TabIndex = 1;
             this.LR.Text = "<";
             this.LR.UseVisualStyleBackColor = true;
+            this.LR.Click += new System.EventHandler(this.LR_Click);
             // 
             // AllLR
             // 
@@ -67,6 +69,7 @@
             this.AllLR.TabIndex = 2;
             this.AllLR.Text = "<<";
             this.AllLR.UseVisualStyleBackColor = true;
+            this.AllLR.Click += new System.EventHandler(this.AllLR_Click);
             // 
             // AllRL
             // 
@@ -77,6 +80,7 @@
             this.AllRL.TabIndex = 3;
             this.AllRL.Text = ">>";
             this.AllRL.UseVisualStyleBackColor = true;
+            this.AllRL.Click += new System.EventHandler(this.AllRL_Click);
             // 
             // ListRight
             // 
@@ -105,10 +109,13 @@
             // 
             // ListLeft
             // 
+            this.ListLeft.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.ListLeft.FormattingEnabled = true;
+            this.ListLeft.ItemHeight = 24;
             this.ListLeft.Location = new System.Drawing.Point(227, 50);
             this.ListLeft.Name = "ListLeft";
-            this.ListLeft.Size = new System.Drawing.Size(145, 342);
+            this.ListLeft.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
+            this.ListLeft.Size = new System.Drawing.Size(145, 340);
             this.ListLeft.TabIndex = 5;
             // 
             // RightCnt
